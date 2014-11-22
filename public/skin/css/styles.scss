@@ -1,0 +1,22 @@
+h1, h2, h3, h4 {
+	font-family: 'Oswald', sans-serif;
+	font-weight: normal;
+	text-align: center;
+}
+
+h1 {
+	font-weight: bold;
+	font-size: 3em;
+}
+
+h2 {
+	font-weight: bolder;
+	font-size: 6em;
+	margin: 0;
+}
+
+.container {
+	width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}

@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>MageName</title>
+{% include 'head.html' %}
 </head>
 <body>
-	<h2>MageName</h2>
-	<h3>Your business should be named:</h3>
-	<h1>{{phrase}}</h1>
+<div class="container">
+	<h1>MageName</h1>
+	<h3>Your Magento-based business should be named:</h3>
+	<h2>{{phrase}}</h2>
+	<a href="https://twitter.com/intent/tweet?text=My%20Magento-based%20business%20should%20be%20named%20{{phrase}}!%20Find%20yours%20at%20" class="twitter-share-button" data-size="large">Tweet to @philwinkle</a>
+</div>
+{% include 'before_body_end.html' %}
 </body>
 </html>
