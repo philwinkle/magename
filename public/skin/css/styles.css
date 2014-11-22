@@ -13,6 +13,19 @@ h2 {
   margin: 0; }
 
 .container {
-  width: 800px;
+  min-width: 16em;
   margin: 0 auto;
   text-align: center; }
+
+.row {
+  height: 2em;
+  overflow: hidden;
+  text-align: center;
+  margin: 0; }
+
+@media (max-width: 600px) {
+  body {
+    font-size: 12px; }
+
+  h2 {
+    font-size: 5em; } }
