@@ -1,39 +1,82 @@
+@charset "UTF-8";
+
+* {
+    box-sizing: border-box;
+}
+
 h1, h2, h3, h4 {
-	font-family: 'Oswald', sans-serif;
-	font-weight: normal;
-	text-align: center;
+    font-family: 'Oswald', sans-serif;
+    font-weight: normal;
+    text-align: center;
 }
 
 h1 {
-	font-weight: bold;
-	font-size: 3em;
+    font-weight: bold;
+    font-size: 3em;
 }
 
 h2 {
-	font-weight: bolder;
-	font-size: 6em;
-	margin: 0;
+    font-weight: bolder;
+    font-size: 6em;
+    margin: 0;
 }
 
 .container {
-	min-width: 16em;
-	margin: 0 auto;
-	text-align: center;
+    min-width: 16em;
+    margin: 0 auto;
+    text-align: center;
 }
 
 .row {
-	height: 2em;
-	overflow: hidden;
-	text-align: center;
-	margin: 0;
+    height: 2em;
+    overflow: hidden;
+    text-align: center;
+    margin: 0;
+    line-height: 2em;
+
+    a {
+        
+    }
 }
 
 @media (max-width: 600px){
-	body {
-		font-size: 12px;
-	}
+    body {
+        font-size: 12px;
+    }
 
-	h2 {
-		font-size: 5em;
-	}
+    h2 {
+        font-size: 5em;
+    }
+}
+
+//-------------------------------
+// CSS EMBEDDED WIDGETS @TWITTER
+//-------------------------------
+
+.another {
+    display: inline-block;
+    padding: 3px 10px;
+    margin: 0;
+    border: #ccc solid 1px;
+    border-radius: 3px;
+    background: #f8f8f8 no-repeat;
+    background: -webkit-linear-gradient(#fff, #dedede) no-repeat;
+    background: linear-gradient(#fff, #dedede) no-repeat;
+    font-weight: bold;
+    font-size: 11px/17px;
+    font-family:  Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: #333;
+    text-shadow: 0 1px 0 rgba(255, 255, 255, .5);
+    white-space: nowrap;
+    height: 28px;
+    margin-right: 15px;
+    margin-top: 2px;
+    line-height: 23px;
+    vertical-align: top;
+}
+
+.another:focus {
+    outline: none;
+    border-color: #0089cb;
 }
