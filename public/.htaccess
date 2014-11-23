@@ -1,0 +1,1 @@
+RedirectMatch permanent ^/index\.php/(.*) /$1
