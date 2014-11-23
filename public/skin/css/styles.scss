@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+svg {
+    display:none;
+}
+
 h1, h2, h3, h4 {
     font-family: 'Oswald', sans-serif;
     font-weight: normal;
@@ -63,7 +67,7 @@ h2 {
     background: -webkit-linear-gradient(#fff, #dedede) no-repeat;
     background: linear-gradient(#fff, #dedede) no-repeat;
     font-weight: bold;
-    font-size: 11px/17px;
+    font-size: 14px/19px;
     font-family:  Helvetica, Arial, sans-serif;
     text-decoration: none;
     color: #333;
@@ -74,6 +78,11 @@ h2 {
     margin-top: 2px;
     line-height: 23px;
     vertical-align: top;
+    cursor: pointer;
+}
+
+.another:disabled {
+    opacity: .5;
 }
 
 .another:focus {

@@ -6,10 +6,12 @@
 
 			var $h2 = $('h2'),
 				$svg = $('svg'),
-				$social = $('.row');
+				$social = $('.row'),
+				$button = $('.another');
 
 			$h2.css('opacity',.5);
 			$svg.show();
+			$button.prop('disabled',true);
 
 			$.ajax({
 				'url': '/get/phrase',
