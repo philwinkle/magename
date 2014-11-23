@@ -1,18 +1,24 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 <script>
 	$(function(){
-		$('.another').click(function(e){
+		$('body').on('click','.another',function(e){
 			e.preventDefault();
-			var $h2 = $('h2');
-			var $svg = $('svg');
+
+			var $h2 = $('h2'),
+				$svg = $('svg'),
+				$social = $('.row');
+
 			$h2.css('opacity',.5);
 			$svg.show();
+
 			$.ajax({
 				'url': '/get/phrase',
 				'dataType': 'json'
 			})
 			.done(function(data){
 				$h2.html(data.phrase);
+				$social.html(data.social);
+				twttr.widgets.load();
 			})
 			.always(function(){
 				$h2.css('opacity',1);

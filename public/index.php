@@ -37,7 +37,8 @@ $app->get('/', function() use ($app, $twig, $phrase) {
 }); 
 
 $app->get('/get/phrase',function() use ($app, $twig, $phrase) {
-	return json_encode(array('phrase'=>$phrase));
+	$social = $twig->render('social.html',array('phrase'=>$phrase));
+	return json_encode(array('phrase'=>$phrase, 'social'=>$social));
 });
 
 //-------------------------------
