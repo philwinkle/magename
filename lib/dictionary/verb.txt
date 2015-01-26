@@ -599,6 +599,7 @@ note
 notice
 number
 obey
+obliged
 object
 observe
 obtain
