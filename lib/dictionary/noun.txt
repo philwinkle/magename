@@ -141,6 +141,7 @@ backyard
 bacon
 bacteria
 badminton
+bae
 bag
 bagel
 baggage
@@ -983,6 +984,7 @@ gallbladder
 gambler
 game
 gang
+gangsta
 gap
 garage
 garbage
@@ -1628,6 +1630,7 @@ marketplace
 marksman
 marlin
 marmalade
+marmite
 marmoset
 marmot
 maroon
