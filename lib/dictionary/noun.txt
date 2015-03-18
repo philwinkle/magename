@@ -1,3 +1,4 @@
+*
 aardvark
 abacus
 abalone
@@ -168,8 +169,8 @@ balm
 bamboo
 banana
 band
-bandage
 band-aid
+bandage
 bandana
 bandit
 bandstand
@@ -733,6 +734,7 @@ disk
 doctor
 doe
 dog
+doge
 dollar
 dollhouse
 dolphin
@@ -788,7 +790,6 @@ dust
 duster
 dustpan
 dwarf
-*
 eagle
 ear
 earache
@@ -835,6 +836,7 @@ eyeliner
 eyeteeth
 eyetooth
 fabric
+fabulous
 face
 factory
 fairy
@@ -1042,6 +1044,7 @@ gladiator
 glass
 glasses
 glassware
+glitter
 glob
 globe
 gloom
@@ -1066,8 +1069,8 @@ golfer
 gong
 goon
 goose
-gooseberry
 goose-step
+gooseberry
 gopher
 gorge
 gorilla
@@ -1293,9 +1296,9 @@ hydrant
 hyena
 ibex
 ice
+ice-skate
 iceberg
 icebox
-ice-skate
 idiot
 igloo
 ignition
@@ -1784,8 +1787,8 @@ mosque
 mosquito
 motel
 moth
-mothball
 moth-eaten
+mothball
 motor
 motorbike
 motorboat
@@ -2229,6 +2232,7 @@ polygamist
 polygamy
 polygraph
 pony
+pony
 ponytail
 pooch
 poodle
@@ -2336,8 +2340,8 @@ quest
 question
 queue
 quiche
-quicksand
 quick-witted
+quicksand
 quid
 quintessence
 quintet
@@ -2565,8 +2569,8 @@ rocker
 rocket
 rodent
 rodeo
-rollerblade
 roller-skate
+rollerblade
 romance
 roof
 roofing
@@ -2804,8 +2808,6 @@ self-improvement
 self-incrimination
 self-indulgence
 self-interest
-selfishness
-selflessness
 self-pity
 self-portrait
 self-possession
@@ -2819,6 +2821,8 @@ self-satisfaction
 self-service
 self-starter
 self-sufficient
+selfishness
+selflessness
 seller
 sellout
 semicircle
@@ -2897,16 +2901,16 @@ shortcake
 shortchange
 shorts
 shortstop
-shotgun
 shot-putter
+shotgun
 shoulder
 shovel
 show
+show-off
 showboat
 showcase
 showdown
 shower
-show-off
 shrapnel
 shredder
 shrew
@@ -2961,8 +2965,8 @@ sinusitis
 siphon
 sirloin
 sister
-sisterhood
 sister-in-law
+sisterhood
 sitcom
 six-pack
 six-shooter
@@ -3135,6 +3139,7 @@ spaniel
 spanish
 spareribs
 spark
+sparkle
 sparkler
 sparrow
 spat
@@ -3234,8 +3239,8 @@ stalker
 stammerer
 stampede
 stance
-standby
 stand-in
+standby
 standout
 staple
 stapler
@@ -3301,6 +3306,7 @@ stipulation
 stirrup
 stitch
 stock
+stock-still
 stockade
 stockbroker
 stockholder
@@ -3308,7 +3314,6 @@ stockiness
 stocking
 stockpile
 stockroom
-stock-still
 stockyard
 stoicism
 stomach
@@ -3453,17 +3458,17 @@ sweater
 sweatshirt
 sweatshop
 sweeper
-sweetener
 sweet-talk
+sweetener
 swimmer
 swimsuit
 swindler
 swine
 swinger
 switch
+switch-hitter
 switchblade
 switchboard
-switch-hitter
 sword
 swordfish
 swordplay
@@ -3480,6 +3485,7 @@ syntax
 synthesizer
 syringe
 syrup
+t-shirt
 table
 tablecloth
 tablespoon
@@ -3642,10 +3648,10 @@ thunderbolt
 thundercloud
 thundershower
 thunderstorm
+tic-tac-toe
 tick
 ticker
 ticket
-tic-tac-toe
 tiddlywinks
 tide
 tidewater
@@ -3801,7 +3807,6 @@ truck
 trucker
 trunk
 truth
-t-shirt
 tuba
 tube
 tuber
@@ -3857,8 +3862,9 @@ typographer
 typography
 tyranny
 tyrant
-ubiquity
 u-boat
+u-turn
+ubiquity
 udder
 ufo
 ugliness
@@ -3906,7 +3912,6 @@ utensil
 uteri
 uterus
 utopia
-u-turn
 uvula
 vacancy
 vacation
@@ -4061,12 +4066,12 @@ walker
 walkie-talkie
 walkway
 wall
+wall-to-wall
 wallaby
 wallboard
 wallet
 wallflower
 wallpaper
-wall-to-wall
 walnut
 walrus
 waltz
@@ -4228,10 +4233,10 @@ write-off
 writer
 wrongdoing
 wuss
+x-ray
 xenophobia
 xerography
 xerox
-x-ray
 xylophone
 yacht
 yachtsman
@@ -4246,6 +4251,7 @@ yawn
 year
 yearbook
 yeast
+yo-yo
 yodeler
 yoga
 yogurt
@@ -4253,7 +4259,6 @@ yokel
 yolk
 youngster
 youth
-yo-yo
 zap
 zeal
 zealot
