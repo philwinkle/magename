@@ -767,6 +767,7 @@ drivel
 driver
 driveway
 drizzle
+drone
 drop
 droplet
 dropout
